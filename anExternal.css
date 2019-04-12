@@ -40,3 +40,13 @@
     left: 50%;
     transform: translate(-50%, -50%);
   }
+  
+  /* round image corners */
+  img.roundedcorners {
+    border-radius: 30px;    
+  }
+
+  /* float to right*/
+  img.floatright {
+    float: right;
+}
